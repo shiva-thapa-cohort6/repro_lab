@@ -1,0 +1,2 @@
+Average time-to-triage (seconds) = 7902.00
+Correct triage coverage (%) = 50.00

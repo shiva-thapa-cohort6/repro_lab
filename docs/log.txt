@@ -1,0 +1,1 @@
+MTTT=7902s; Coverage=50.0% -> wrote metric.txt and chart.png in docs/
