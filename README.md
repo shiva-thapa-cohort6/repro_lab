@@ -35,13 +35,4 @@ NIST CSF 2.0 GV.ME-01 — “Measurement and performance management are conducte
 
 ## Standards Note
 
-This capstone repository incorporates selected elements of the NIST Cybersecurity Framework (CSF) 2.0 and NIST SP 800-207 Zero Trust Architecture [3], [4]. The Standards Crosswalk in `docs/crosswalk.md` maps three key project components—container configuration, the analysis script, and stored log outputs—to CSF Outcomes PR.PS-01, PR.PS-04, and ID.RA-01, and to Zero Trust Tenets 2 and 5.
-
-Evidence supporting these mappings is included in:
-- Container and environment definitions: `Dockerfile`, `requirements.txt`
-- Analysis workflow: `src/run.py`
-- Logged outputs and visual artifacts: `docs/metric.txt`, `docs/log.txt`, `docs/chart.png`
-- Standards mapping and profile snippet: `docs/crosswalk.md`
-
-This note provides traceability between the reproducible workflow developed in Homework 11 and the standards alignment required in Homework 12.
-
+This project connects parts of its analysis process with the NIST Cybersecurity Framework 2.0 and NIST SP 800-207 Zero Trust Architecture [3], [4]. The Standards Crosswalk in `docs/crosswalk.md` links important components to CSF Outcomes ID.RA-01, PR.PS-01, and PR.PS-04, and to Zero Trust Tenets 2 and 5. Evidence for these mappings is found in the container and environment files (`Dockerfile`, `requirements.txt`), the analysis script (`src/run.py`), and the recorded results (`docs/metric.txt`, `docs/log.txt`, `docs/chart.png`). Together, this note and the crosswalk file show how the project aligns with the referenced standards.
