@@ -63,15 +63,3 @@ The complete Traceability Matrix is stored at:
 ### Referenced NIST Controls
 - **NIST SP 800-171 Rev. 3:** 03.03.02, 03.03.03  
 - **NIST SP 800-171A Rev. 3 Objective:** A.03.03.03
-
-
-## Pitch
-
-The capstone pitch deck for Homework 15 is stored in this repository under:
-
-- docs/pitch/week13_pitch.pptx  
-- docs/pitch/week13_pitch.pdf  
-
-This deck summarizes the project’s problem statement, prior-work evidence, containerized method, standards anchors, evaluation plan, and the CSF 2.0 Current → Target Profile. It fulfills the Slidecraft & Scholarly Pitch Design requirements and pairs with the reproducible analysis workflow documented in this repo.
-
-
